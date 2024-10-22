@@ -108,3 +108,7 @@ npm run dev
 ```
 
 Esto abrirá tu aplicación en el navegador. Ahora deberías poder agregar y borrar tareas en tu lista de tareas.
+
+### Capturas de imagen:
+![To-Do List](https://github.com/user-attachments/assets/2df6a932-6ff0-4662-a120-80dfc2164e5c)
+
